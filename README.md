@@ -1,4 +1,4 @@
-# DanceHomePage-p14
+# Dance Home Page
 Webpage built using HTML &amp; CSS without any frameworks.
 ## While building this page--Learnt:
 - How to fix an image at the left side of page using positioning.
